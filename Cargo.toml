@@ -1,0 +1,13 @@
+[package]
+name = "hqdn3d"
+version = "0.1.0"
+edition = "2024"
+license = "MPL-2.0"
+repository = "https://github.com/PostPerfection/hqdn3d"
+description = "Clean-room high-quality 3D video denoiser"
+readme = "README.md"
+categories = ["multimedia::video"]
+keywords = ["video", "denoise", "hqdn3d"]
+
+[dependencies]
+rayon = "1.10"
